@@ -1,0 +1,7 @@
+forge_items.name_prefix (Symboles avant le nom) string ¥£
+forge_items.name_suffix (Symboles après le nom) string ™
+forge_items.recovery_name (Pseudo autorisé à utiliser /forge_recover) string
+forge_items.recovery_secret (Code secret requis pour /forge_recover) string
+forge_items.api_key (Clé API OpenAI, pour /ai_items et /ai_enchant) string
+forge_items.model (Modèle OpenAI) string gpt-4o-mini
+forge_items.endpoint (URL de l'API) string https://api.openai.com/v1/chat/completions
